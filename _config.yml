@@ -40,6 +40,9 @@ topics:
   - 한포진
   - 아토피피부염
 
+webmaster_verifications:
+  google: yHo0Kptk2eRJgrl_HMv0yFC0AzLPaDoZJhSp8cq9JaE
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
