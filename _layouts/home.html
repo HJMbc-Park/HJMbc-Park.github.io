@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section class="intro">
+  <h1>{{ site.title }}</h1>
+  <p class="lead">{{ site.description }}</p>
+  <p class="byline">글쓴이 <a href="{{ '/about/' | relative_url }}">{{ site.author.name }} {{ site.author.role }}</a> · {{ site.author.position }}</p>
+</section>
+
+<section class="post-list" aria-labelledby="latest">
+  <h2 id="latest">최근 글</h2>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time>
+        <span class="post-title">{{ post.title }}</span>
+        <span class="post-desc">{{ post.description }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

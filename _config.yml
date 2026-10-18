@@ -1,0 +1,45 @@
+title: 편평사마귀·피부 질문노트
+description: 편평사마귀, 쥐젖, 여드름처럼 진료실에서 자주 받는 피부 질문에 한의사가 직접 답하는 정보 노트입니다.
+lang: ko
+locale: ko_KR
+timezone: Asia/Seoul
+permalink: /posts/:title/
+
+author:
+  name: 박서연
+  role: 한의사
+  position: 화접몽한의원 부천점 대표원장
+  url: /about/
+
+clinic:
+  name: 화접몽한의원 부천점
+  area: 경기 부천시 원미구 상동
+  region: 경기도
+  locality: 부천시 원미구
+  street: 길주로 91 비잔티움 4층 401호
+  map: https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%A0%91%EB%AA%BD%ED%95%9C%EC%9D%98%EC%9B%90%20%EB%B6%80%EC%B2%9C%EC%A0%90
+
+topics:
+  - 편평사마귀
+  - 쥐젖
+  - 비립종
+  - 한관종
+  - 여드름
+  - 여드름 흉터
+  - 모낭염
+  - 지루성피부염
+  - 모공각화증
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+exclude:
+  - README.md
+  - preview

@@ -1,0 +1,15 @@
+---
+layout: null
+sitemap: false
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+글쓴이: {{ site.author.name }} {{ site.author.role }}, {{ site.author.position }} ({{ site.clinic.area }})
+
+## 글
+{% for post in site.posts %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description }}
+{% endfor %}
+## 소개
+- [글쓴이 소개]({{ '/about/' | absolute_url }})

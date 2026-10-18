@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ '/about/' | absolute_url }}#author",
+  "name": "{{ site.author.name }}",
+  "jobTitle": "대표원장",
+  "hasOccupation": { "@type": "Occupation", "name": "{{ site.author.role }}" },
+  "url": "{{ '/about/' | absolute_url }}",
+  "knowsAbout": [{% for t in site.topics %}"{{ t }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "worksFor": {
+    "@type": "MedicalClinic",
+    "name": "{{ site.clinic.name }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "KR",
+      "addressRegion": "{{ site.clinic.region }}",
+      "addressLocality": "{{ site.clinic.locality }}",
+      "streetAddress": "{{ site.clinic.street }}"
+    },
+    "hasMap": "{{ site.clinic.map }}"
+  }
+}
+</script>
+{% if page.faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ item.a | jsonify }} }
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
+</script>
+{% endif %}
