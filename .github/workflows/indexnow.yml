@@ -1,9 +1,9 @@
 name: IndexNow (Bing)
 
 on:
-  workflow_run:
-    workflows: ["pages build and deployment"]
-    types: [completed]
+  push:
+    branches: [main]
+    paths: ["_posts/**"]
   workflow_dispatch:
     inputs:
       urls:
@@ -13,12 +13,13 @@ on:
 jobs:
   ping:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
-    steps:
+        steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          ref: ${{ github.sha }}
+      - name: Wait for Pages deploy
+        run: sleep 150
       - name: Submit changed posts to IndexNow
         env:
           KEY: 4b5ced2b48939d404a97372e8a1954ce
