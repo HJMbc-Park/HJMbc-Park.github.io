@@ -140,3 +140,6 @@ main.wrap { padding-top: 40px; padding-bottom: 64px; }
   .post-body table { font-size: 14px; }
   .post-body th, .post-body td { padding: 8px 10px; }
 }
+
+.column-link{margin:28px 0;padding:14px 18px;border:1px solid #c9ddd0;background:#eef6f0;border-radius:6px}
+.column-link p{margin:4px 0}
