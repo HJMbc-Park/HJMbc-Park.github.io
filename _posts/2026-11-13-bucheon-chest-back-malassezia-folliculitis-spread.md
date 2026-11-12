@@ -30,7 +30,7 @@ faq:
 
 ## 압출은 도움이 되지 않습니다
 
-짜거나 긁으면 사라지지 않고 늘어나거나 자국이 남을 수 있습니다. 단순 여드름과 모낭염의 구분과 압출을 피해야 하는 이유는 [부천 등·가슴 여드름이 낫지 않아요]({{ '/posts/bucheon-chest-back-acne-vs-folliculitis/' | relative_url }}) 글에서, 일반 모낭염은 [부천 성인 여드름처럼 보이는 만성 모낭염]({{ '/posts/bucheon-chronic-folliculitis-adult-acne/' | relative_url }}) 글에서 확인하실 수 있습니다. 경과는 개인에 따라 다를 수 있습니다.
+짜거나 긁으면 사라지지 않고 늘어나거나 자국이 남을 수 있습니다. 단순 여드름과 모낭염의 구분과 압출을 피해야 하는 이유는 부천 등·가슴 여드름이 낫지 않아요 글에서, 일반 모낭염은 [부천 성인 여드름처럼 보이는 만성 모낭염]({{ '/posts/bucheon-chronic-folliculitis-adult-acne/' | relative_url }}) 글에서 확인하실 수 있습니다. 경과는 개인에 따라 다를 수 있습니다.
 
 ## 진료 전에 알려 주시면 좋은 것
 
