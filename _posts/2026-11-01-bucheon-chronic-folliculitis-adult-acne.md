@@ -15,8 +15,8 @@ faq:
     a: "급성 모낭염이라도 원인이 세균 감염인지 진균 감염인지에 따라 원인 균이 달라 치료 방향이 달라지기 때문입니다."
   - q: "지루성피부염과도 관련이 있나요?"
     a: "모낭염은 지루성피부염과 함께 나타나는 경우가 많고, 여드름과 섞여 있기도 해서 감별이 중요합니다."
-column_url: "https://www.mongclinic.com/index.php/board/view/column/27/49076"
-column_title: "부천 여드름 모낭염 뾰루지, 무조건 압출하면 안 되는 이유"
+column_url: "https://www.mongclinic.com/index.php/board/view/column/27/49099"
+column_title: "부천 등·가슴 모낭염 반복, 세균인지 진균인지 구분해야 하는 이유"
 ---
 
 ## 성인 여드름처럼 보이는데 모낭염일 수 있나요?

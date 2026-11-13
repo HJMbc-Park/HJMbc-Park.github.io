@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 화접몽한의원 부천점 홈페이지 칼럼
-description: "화접몽한의원 부천점 홈페이지(몽클리닉) 칼럼 모음. 편평사마귀, 건선, 모공각화증, 지루성피부염, 여드름·모낭염, 여드름 흉터 칼럼을 한곳에 모았습니다."
+description: "화접몽한의원 부천점 홈페이지(몽클리닉) 칼럼 모음. 편평사마귀, 건선, 모공각화증, 지루성피부염, 여드름·모낭염, 여드름 흉터, 손발톱·관절 건선 칼럼을 한곳에 모았습니다."
 permalink: /columns/
 ---
 
@@ -16,5 +16,9 @@ permalink: /columns/
 - [부천 엉덩이·등·다리까지 번진 모공각화증, 유형을 나눠 접근하는 치료](https://www.mongclinic.com/index.php/board/view/column/27/49081)
 - [부천 임신 출산 중 생긴 편평사마귀, 아기에게 번질까 걱정된다면](https://www.mongclinic.com/index.php/board/view/column/27/49082)
 - [부천 찍히고 패인 여드름 흉터를 회복하는 리셀테라피](https://www.mongclinic.com/index.php/board/view/column/27/49083)
+- [부천 자녀 팔·허벅지 오돌토돌 모공각화증, 보호자가 알아둘 점](https://www.mongclinic.com/index.php/board/view/column/27/49097)
+- [부천 여드름이 반복되는 이유, 호르몬만 탓하면 놓치는 것들](https://www.mongclinic.com/index.php/board/view/column/27/49098)
+- [부천 등·가슴 모낭염 반복, 세균인지 진균인지 구분해야 하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49099)
+- [부천 건선 손발톱 변형·관절 통증, 피부와 함께 확인하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49100)
 
 [홈으로]({{ '/' | relative_url }}) · [주제별 글 모음]({{ '/topics/' | relative_url }})
