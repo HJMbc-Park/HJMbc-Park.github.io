@@ -7,7 +7,7 @@ permalink: /topics/
 
 부천 화접몽한의원 박서연 한의사가 진료실에서 자주 받는 피부 질문에 답한 글을 주제별로 모았습니다.
 
-{% assign topics = "편평사마귀|flat-wart,모공각화증|keratosis,지루성피부염·모낭염|seborrheic;folliculitis,건선|psoriasis,여드름·여드름흉터|teen-acne;acne-scar" | split: "," %}
+{% assign topics = "편평사마귀|flat-wart,모공각화증|keratosis,지루성피부염·모낭염|seborrheic;folliculitis,건선|psoriasis,여드름·여드름흉터|teen-acne;acne-scar,아토피·습진·한포진|atopy;eczema;dyshidrotic,원형탈모|alopecia,손발 사마귀|warts-hands-feet,등·가슴 피부|chest-back" | split: "," %}
 {% for t in topics %}
 {% assign parts = t | split: "|" %}
 {% assign keys = parts[1] | split: ";" %}
