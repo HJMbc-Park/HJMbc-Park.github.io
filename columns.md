@@ -20,5 +20,6 @@ permalink: /columns/
 - [부천 여드름이 반복되는 이유, 호르몬만 탓하면 놓치는 것들](https://www.mongclinic.com/index.php/board/view/column/27/49098)
 - [부천 등·가슴 모낭염 반복, 세균인지 진균인지 구분해야 하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49099)
 - [부천 건선 손발톱 변형·관절 통증, 피부와 함께 확인하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49100)
+- [부천 엉덩이 모공각화증·여드름과 여드름 자국까지 한 번에 깨끗하게 치료할 수 있을까요?](https://www.mongclinic.com/index.php/board/view/column/27/49105)
 
 [홈으로]({{ '/' | relative_url }}) · [주제별 글 모음]({{ '/topics/' | relative_url }})
