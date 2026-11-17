@@ -23,5 +23,6 @@ permalink: /columns/
 - [부천 엉덩이 모공각화증·여드름과 여드름 자국까지 한 번에 깨끗하게 치료할 수 있을까요?](https://www.mongclinic.com/index.php/board/view/column/27/49105)
 - [부천 편평사마귀 무제한 제거 이벤트, 얼굴·목 거우침 29만원 한시적 이벤트](https://www.mongclinic.com/index.php/board/view/column/27/49106)
 - [부천 얼굴 홍조·지루성피부염·모낭염, 붉은 기가 반복될 때 함께 확인하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49108)
+- [부천 학생·청소년 팔 모공각화증 치료, 반팔 입기 전에 미리 시작하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49109)
 
 [홈으로]({{ '/' | relative_url }}) · [주제별 글 모음]({{ '/topics/' | relative_url }})
