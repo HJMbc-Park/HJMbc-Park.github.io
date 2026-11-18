@@ -24,5 +24,6 @@ permalink: /columns/
 - [부천 편평사마귀 무제한 제거 이벤트, 얼굴·목 거우침 29만원 한시적 이벤트](https://www.mongclinic.com/index.php/board/view/column/27/49106)
 - [부천 얼굴 홍조·지루성피부염·모낭염, 붉은 기가 반복될 때 함께 확인하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49108)
 - [부천 학생·청소년 팔 모공각화증 치료, 반팔 입기 전에 미리 시작하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49109)
+- [부천 거우침 제거, 빨리 할수록 덜 번지고 꼼꼼할수록 재발이 줄어듭니다](https://www.mongclinic.com/index.php/board/view/column/27/49113)
 
 [홈으로]({{ '/' | relative_url }}) · [주제별 글 모음]({{ '/topics/' | relative_url }})
