@@ -28,5 +28,6 @@ permalink: /columns/
 - [부천아토피피부염한의원, 연고를 끊으면 다시 올라오는 이유와 치료 방향](https://www.mongclinic.com/index.php/board/view/column/27/49114)
 - [부천 등·가슴 말라세지아 모낭염, 항생제를 먹어도 안 없어지고 번지는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49116)
 - [부천 손발 사마귀 한방치료, 번지고 재발할 때 제거 대신 면역 치료를 고려하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49117)
+- [부천 한포진 한의원, 손발 물집이 낫다가 반복될 때 확인할 것들](https://www.mongclinic.com/index.php/board/view/column/27/49118)
 
 [홈으로]({{ '/' | relative_url }}) · [주제별 글 모음]({{ '/topics/' | relative_url }})
