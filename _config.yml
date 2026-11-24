@@ -1,5 +1,5 @@
 title: 편평사마귀·피부 질문노트
-description: 편평사마귀, 여드름, 지루성피부염처럼 진료실에서 자주 받는 피부 질문에 한의사가 직접 답하는 정보 노트입니다.
+description: 화접몽한의원 부천점(상동역) 박서연 한의사가 편평사마귀, 여드름, 지루성피부염 같은 피부 질문에 직접 답하는 정보 노트입니다.
 lang: ko
 locale: ko_KR
 timezone: Asia/Seoul
@@ -22,6 +22,13 @@ clinic:
   region: 경기도
   locality: 부천시 원미구
   street: 길주로 91 비잔티움 4층 401호
+  telephone: "+82-32-322-8216"
+  postal_note: 7호선 상동역 5번 출구 앞, 비잔티움상동 West동
+  homepage: https://bucheon.mongclinic.com/
+  same_as:
+    - https://hjmbc-park.tistory.com/
+    - https://pf.kakao.com/_zxirNM
+    - https://www.mongclinic.com/index.php/br/view/20/srchBr/6
   map: https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%A0%91%EB%AA%BD%ED%95%9C%EC%9D%98%EC%9B%90%20%EB%B6%80%EC%B2%9C%EC%A0%90
 
 topics:

@@ -36,4 +36,5 @@ permalink: /about/
 ## 위치
 
 {{ site.clinic.name }} · {{ site.clinic.area }} (상동역 인근)<br>
-[구글 지도에서 보기]({{ site.clinic.map }})
+[구글 지도에서 보기]({{ site.clinic.map }})<br>
+[오시는 길·진료시간]({{ '/location/' | relative_url }})
