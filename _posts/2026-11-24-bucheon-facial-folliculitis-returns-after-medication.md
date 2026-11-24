@@ -52,6 +52,8 @@ faq:
 
 비슷한 주제는 [부천 모낭염 치료, 세균성과 진균성은 어떻게 구분해서 접근하나요?]({{ '/posts/bucheon-folliculitis-bacterial-fungal-approach/' | relative_url }}) 글에서도 확인하실 수 있습니다.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 등·가슴 모낭염 반복, 세균인지 진균인지 구분해야 하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49099)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

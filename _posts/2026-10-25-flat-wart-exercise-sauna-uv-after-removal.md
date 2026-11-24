@@ -32,6 +32,8 @@ faq:
 - 세안과 화장이 궁금하시다면 [편평사마귀 시술 후 세안·화장은 언제부터 할 수 있나요?]({{ '/posts/face-wash-makeup-after-flat-wart-removal/' | relative_url }}) 글을 읽어 보세요.
 - 부위별 회복 기간이 궁금하시다면 [편평사마귀 제거, 몇 번 받아야 하고 회복은 얼마나 걸리나요?]({{ '/posts/flat-wart-sessions-and-recovery/' | relative_url }}) 글을 읽어 보세요.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 편평사마귀 제거, 눈가·입가·두피 같은 사각지대까지 확인하는 거우침 제거](https://www.mongclinic.com/index.php/board/view/column/27/49066)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

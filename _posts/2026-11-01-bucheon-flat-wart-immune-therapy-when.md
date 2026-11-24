@@ -59,6 +59,8 @@ faq:
 
 재발이 반복될 때는 [편평사마귀가 자꾸 재발해요. 제거를 해야 하나요, 그냥 둬도 되나요?]({{ '/posts/flat-wart-recurring-remove-or-leave/' | relative_url }}) 글을, 다른 곳에서 제거한 뒤 다시 생긴 경우는 [다른 곳에서 편평사마귀를 제거했는데 또 생겼어요]({{ '/posts/flat-wart-came-back-retreatment/' | relative_url }}) 글을 함께 읽어 보세요.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 거우침 제거, 빨리 할수록 덜 번지고 꼼꼼할수록 재발이 줄어듭니다](https://www.mongclinic.com/index.php/board/view/column/27/49113)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

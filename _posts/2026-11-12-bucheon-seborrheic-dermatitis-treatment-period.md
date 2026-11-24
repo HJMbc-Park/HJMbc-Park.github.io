@@ -40,6 +40,8 @@ faq:
 
 지루성피부염에는 모낭염이 함께 올라오는 경우가 있습니다. 자세한 내용은 [지루성피부염이 오래됐어요. 모낭염도 같이 있다는데 치료 기간은 얼마나 걸리나요?]({{ '/posts/seborrheic-dermatitis-folliculitis/' | relative_url }}) 글을, 사용해 온 약이 왜 중요한지는 [지루성피부염으로 약과 화장품을 오래 써 왔어요]({{ '/posts/seborrheic-dermatitis-medication-history/' | relative_url }}) 글을, 심해지는 상황은 [지루성피부염이 심해지는 상황은?]({{ '/posts/seborrheic-dermatitis-lifestyle/' | relative_url }}) 글을 참고하세요.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 지루성피부염 한의원치료, 붉은기가 '1'일 때부터 보는 이유와 3개월 집중 치료](https://www.mongclinic.com/index.php/board/view/column/27/49074)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

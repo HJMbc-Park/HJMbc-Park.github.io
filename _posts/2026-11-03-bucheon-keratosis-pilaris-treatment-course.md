@@ -43,6 +43,8 @@ faq:
 
 학생·청소년이 언제 치료를 시작하면 좋은지는 [부천 학생 팔 모공각화증 치료 시기 글]({{ '/posts/bucheon-student-arm-keratosis-pilaris-treatment-timing/' | relative_url }})을 참고하세요.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 모공각화증 치료, 오돌토돌한 피부결과 울긋불긋한 색소를 함께 보는 2~3개월](https://www.mongclinic.com/index.php/board/view/column/27/49073)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

@@ -38,3 +38,5 @@ faq:
 </div>
 
 편평사마귀와 비슷해 보이는 다른 돌기도 많으니, 먼저 [편평사마귀와 쥐젖·비립종·한관종 구별법]({{ '/posts/flat-wart-vs-skin-tag-milia-syringoma/' | relative_url }})을 읽어 보셔도 좋습니다.
+
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 편평사마귀 제거, 눈가·입가·두피 같은 사각지대까지 확인하는 거우침 제거](https://www.mongclinic.com/index.php/board/view/column/27/49066)

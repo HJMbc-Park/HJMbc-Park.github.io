@@ -41,6 +41,8 @@ faq:
 
 지루성피부염, 안면홍조, 모낭염을 함께 구분하는 방법은 [부천 얼굴이 자꾸 붉어요 글]({{ '/posts/bucheon-red-face-seborrheic-rosacea-folliculitis/' | relative_url }})을 참고하세요.
 
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 얼굴 홍조·지루성피부염·모낭염, 붉은 기가 반복될 때 함께 확인하는 이유](https://www.mongclinic.com/index.php/board/view/column/27/49108)
+
 ## 진료 정보
 
 화접몽한의원 부천점 · 박서연 한의사 · 경기 부천시 원미구 상동 길주로 91 비잔티움 4층 401호 (상동역 인근)

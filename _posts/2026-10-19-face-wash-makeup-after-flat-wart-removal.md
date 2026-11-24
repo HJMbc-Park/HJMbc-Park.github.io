@@ -42,3 +42,5 @@ faq:
 - 때밀이 수건이나 세안 브러시처럼 마찰이 큰 도구
 
 부위별 회복 기간이 궁금하시다면 [편평사마귀 제거, 몇 번 받아야 하고 회복은 얼마나 걸리나요?]({{ '/posts/flat-wart-sessions-and-recovery/' | relative_url }}) 글을 함께 읽어 보세요.
+
+홈페이지 칼럼에서 같은 주제를 더 길게 정리했습니다. [부천 편평사마귀 제거, 눈가·입가·두피 같은 사각지대까지 확인하는 거우침 제거](https://www.mongclinic.com/index.php/board/view/column/27/49066)
